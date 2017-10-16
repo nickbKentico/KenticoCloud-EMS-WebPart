@@ -42,10 +42,23 @@
 !/CMS/App_Data/CIRepository/@global/cms.settingscategory/
 /CMS/App_Data/CIRepository/@global/cms.settingscategory/*
 !/CMS/App_Data/CIRepository/@global/cms.settingscategory/kenticocloudsettings.xml
+!/CMS/App_Data/CIRepository/@global/cms.settingscategory/general.xml
 
 !/CMS/App_Data/CIRepository/@global/cms.settingskey/
 /CMS/App_Data/CIRepository/@global/cms.settingskey/*
 !/CMS/App_Data/CIRepository/@global/cms.settingskey/kenticocloudprojectid.xml
+
+!/CMS/App_Data/CIRepository/@global/cms.resource/
+/CMS/App_Data/CIRepository/@global/cms.resource/*
+!/CMS/App_Data/CIRepository/@global/cms.resource/kenticocloud.xml
+
+!/CMS/App_Data/CIRepository/@global/cms.permission/
+/CMS/App_Data/CIRepository/@global/cms.permission/*
+!/CMS/App_Data/CIRepository/@global/cms.permission/kenticocloud@2255bc850e/
+!/CMS/App_Data/CIRepository/@global/cms.permission/kenticocloud@2255bc850e/*
+
+
+
 
 !/CMS/App_Data/CIRepository/@global/cms.formusercontrol/
 /CMS/App_Data/CIRepository/@global/cms.formusercontrol/*
