@@ -53,6 +53,7 @@
 !/CMS/App_Data/CIRepository/@global/cms.webpartcategory/
  /CMS/App_Data/CIRepository/@global/cms.webpartcategory/*
 !/CMS/App_Data/CIRepository/@global/cms.webpartcategory/datasources.xml
+!/CMS/App_Data/CIRepository/@global/cms.webpartcategory/kenticocloud.xml
 
 # Add Kentico Cloud Helpers Application
 !/KenticoCloudHelpers/
