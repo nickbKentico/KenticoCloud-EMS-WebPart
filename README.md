@@ -10,8 +10,8 @@ A web part for [Kentico](https://www.kentico.com) that adds [Kentico Cloud](http
  5. Now you are ready to use it in the Pages application
  
 ## Contributing
-  1. Read the [contribution guidelines](https://github.com/Kentico/DisqusThread/blob/master/CONTRIBUTING.md)
-  2. Enable the [continuous integration](https://docs.kentico.com/display/K9/Setting+up+continuous+integration) module
+  1. Read the [contribution guidelines](https://github.com/Kentico/KEnticoCloud-EMS-WebPart/blob/master/CONTRIBUTING.md)
+  2. Enable the [continuous integration](https://docs.kentico.com/display/K10/Setting+up+continuous+integration) module
   3. Serialize all objects to disk
   4. Open a command prompt
   5. Navigate to the root of your project (where the .sln file is)
