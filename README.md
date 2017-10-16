@@ -2,7 +2,7 @@
 # KenticoCloud-EMS-WebPart
 A web part for [Kentico](https://www.kentico.com) that adds [Kentico Cloud](https://kenticocloud.com/) content to your web site.
 
-## Installation (COMING SOON)
+## Installation 
  1. Download the latest package from [Release](https://github.com/nickbKentico/KenticoCloud-EMS-WebPart/releases)
  2. In Kentico, go to the Sites application
  3. Select "Import sites or objects"
