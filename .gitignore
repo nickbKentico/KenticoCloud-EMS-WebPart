@@ -38,6 +38,15 @@
  /CMS/App_Data/CIRepository/*
 !/CMS/App_Data/CIRepository/@global/
  /CMS/App_Data/CIRepository/@global/*
+ 
+!/CMS/App_Data/CIRepository/@global/cms.settingscategory
+/CMS/App_Data/CIRepository/@global/cms.settingscategory*
+!/CMS/App_Data/CIRepository/@global/cms.settingscategory/kenticocloudsettings.xml
+
+!/CMS/App_Data/CIRepository/@global/cms.settingskey/
+/CMS/App_Data/CIRepository/@global/cms.settingskey/*
+!/CMS/App_Data/CIRepository/@global/cms.settingskey/kenticocloudprojectid.xml
+
 !/CMS/App_Data/CIRepository/@global/cms.formusercontrol/
 /CMS/App_Data/CIRepository/@global/cms.formusercontrol/*
 !/CMS/App_Data/CIRepository/@global/cms.formusercontrol/kenticocloudcontenttypes.xml
