@@ -39,8 +39,8 @@
 !/CMS/App_Data/CIRepository/@global/
  /CMS/App_Data/CIRepository/@global/*
  
-!/CMS/App_Data/CIRepository/@global/cms.settingscategory
-/CMS/App_Data/CIRepository/@global/cms.settingscategory*
+!/CMS/App_Data/CIRepository/@global/cms.settingscategory/
+/CMS/App_Data/CIRepository/@global/cms.settingscategory/*
 !/CMS/App_Data/CIRepository/@global/cms.settingscategory/kenticocloudsettings.xml
 
 !/CMS/App_Data/CIRepository/@global/cms.settingskey/
