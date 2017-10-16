@@ -1,0 +1,55 @@
+# Ignore all
+*
+# Add .gitignore
+!/.gitignore
+ 
+# Add web part files
+!/CMS/
+ /CMS/*
+!/CMS/CMSWebParts/
+ /CMS/CMSWebParts/*
+!/CMS/CMSWebParts/DataSources/
+ /CMS/CMSWebParts/DataSources/*
+!/CMS/CMSWebParts/DataSources/KenticoCloudDataSource.ascx*
+!/CMS/CMSWebParts/DataSources/KenticoCloudDataSource_files/
+!/CMS/CMSWebParts/DataSources/KenticoCloudDataSource_files/*
+
+# Add Form Control Files
+!/CMS/CMSFormControls/
+/CMS/CMSFormControls/*
+!/CMS/CMSFormControls/KenticoCloud/
+!/CMS/CMSFormControls/KenticoCloud/*
+
+# Add App_Code Files
+!/CMS/App_Code/
+/CMS/App_Code/*
+!/CMS/App_Code/Global/
+/CMS/App_Code/Global/*
+!/CMS/App_Code/Global/CMSTransformation.cs
+!/CMS/App_Code/CMSModules/
+/CMS/App_Code/CMSModules/*
+!/CMS/App_Code/CMSModules/KenticoCloud/
+!/CMS/App_Code/CMSModules/KenticoCloud/*
+
+# Add CI data (XML-serialized DB data)
+!/CMS/App_Data/
+ /CMS/App_Data/*
+!/CMS/App_Data/CIRepository/
+ /CMS/App_Data/CIRepository/*
+!/CMS/App_Data/CIRepository/@global/
+ /CMS/App_Data/CIRepository/@global/*
+!/CMS/App_Data/CIRepository/@global/cms.formusercontrol/
+/CMS/App_Data/CIRepository/@global/cms.formusercontrol/*
+!/CMS/App_Data/CIRepository/@global/cms.formusercontrol/kenticocloudcontenttypes.xml
+
+!/CMS/App_Data/CIRepository/@global/cms.resource/
+/CMS/App_Data/CIRepository/@global/cms.resource/*
+!/CMS/App_Data/CIRepository/@global/cms.resource/kenticocloud.xml
+
+!/CMS/App_Data/CIRepository/@global/cms.webpart/
+ /CMS/App_Data/CIRepository/@global/cms.webpart/*
+!/CMS/App_Data/CIRepository/@global/cms.webpart/kenticoclouddatasource.xml
+
+!/CMS/App_Data/CIRepository/@global/cms.webpartcategory/
+ /CMS/App_Data/CIRepository/@global/cms.webpartcategory/*
+!/CMS/App_Data/CIRepository/@global/cms.webpartcategory/datasources.xml
