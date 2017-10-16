@@ -1,7 +1,6 @@
+
 # KenticoCloud-EMS-WebPart
-Webpart for Kentico EMS to read data from Kentico Cloud
-# DisqusThread
-A web part for [Kentico](https://www.kentico.com) that adds [Disqus Engage](https://disqus.com/) platform to your web site.
+A web part for [Kentico](https://www.kentico.com) that adds [Kentico Cloud](https://kenticocloud.com/) content to your web site.
 
 ## Installation
  1. Download the latest package from [Release](https://github.com/nickbKentico/KenticoCloud-EMS-WebPart/releases)
