@@ -16,22 +16,26 @@ A web part for [Kentico](https://www.kentico.com) that adds [Kentico Cloud](http
   4. Open a command prompt
   5. Navigate to the root of your project (where the .sln file is)
   6. Fork this repo
-  6. Init a git repo and fetch the web part
+  7. Init a git repo and fetch the web part
   
         git init
         git remote add origin https://github.com/owner/repo.git
         git fetch
         git checkout origin/master -ft
-
-  7. Restore DB data
+  8. Open Kentico Solution in Visual Studio
+  9. Add Exisiting Project to Solution (choose KenticoCloudHelpers.csproj)
+  10. Add referance to Kentico Cloud Helpers to CMS project
+  11. Build Kentico Helper Project (not entire solution)
+  12. Restore DB data
   
         Kentico\CMS\bin\ContinuousIntegration.exe -r
 
-  8. Make changes
-  9. Use combination of `git add`, `git commit` and `git push` to transfer your changes to GitHub
+  13. Within Kentico Admin interface, navigate to Modules->Kentico Cloud->Settings-Add New Setting Key.  Add a Key with the Displaname and code name of 'KenticoCloudProjectId' the type of: Text and save.  Now you can entire in your Prject ID from the Settings Applicaion under the Kentico Cloud heading.
+  14. Make changes
+  15. Use combination of `git add`, `git commit` and `git push` to transfer your changes to GitHub
   
         git status
         git commit -a -m "Fixed XY"
         git push
 
-  10. Submit a pull request
+  16. Submit a pull request
